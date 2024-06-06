@@ -1,6 +1,6 @@
 ## 📚 About Me
 
-I am studying at the Faculty of Applied Mathematics and Computer Science at the Belarussian State University with great desire to apply knowledge in practice. I am looking for a job or internship to enrich my knowledge of IT industry and develop my skills in software testing.
+I am studying at the Faculty of Applied Mathematics and Computer Science at the Belarussian State University and I have great desire to apply knowledge in practice.
 
 ## 🛠️ Technologies & Tools
 
