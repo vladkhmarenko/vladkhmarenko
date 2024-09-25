@@ -7,4 +7,6 @@ QA Engineer at SoftClub and student at Faculty of Applied Math and Computer Scie
 
 
 # 📫 Get in Touch:
-- Telegram: [Vlad Khmarenko](https://t.me/vladikkiller)<br>- LinkedIn: [Uladzislau Khmarenka](https://www.linkedin.com/in/uladzislau-khmarenka-437978303/)<br>- Email: uladzislaukhmarenka@gmail.com
+- Telegram: [Vlad Khmarenko](https://t.me/vladikkiller)
+- LinkedIn: [Uladzislau Khmarenka](https://www.linkedin.com/in/uladzislau-khmarenka-437978303/)
+- Email: uladzislaukhmarenka@gmail.com
